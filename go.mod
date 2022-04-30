@@ -2,7 +2,10 @@ module github.com/dtapps/gomongo
 
 go 1.18
 
-require go.mongodb.org/mongo-driver v1.9.0
+require (
+	github.com/dtapps/gotime v1.0.1
+	go.mongodb.org/mongo-driver v1.9.0
+)
 
 require (
 	github.com/go-stack/stack v1.8.1 // indirect

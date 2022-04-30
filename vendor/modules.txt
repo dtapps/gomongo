@@ -1,3 +1,6 @@
+# github.com/dtapps/gotime v1.0.1
+## explicit; go 1.18
+github.com/dtapps/gotime
 # github.com/go-stack/stack v1.8.1
 ## explicit; go 1.17
 github.com/go-stack/stack

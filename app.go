@@ -8,7 +8,7 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
-const Version = "1.0.2"
+const Version = "1.0.3"
 
 type Client struct {
 	Db             *mongo.Client // 驱动
