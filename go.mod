@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/basgys/goxml2json v1.1.0
 	github.com/dtapps/gotime v1.0.1
-	go.mongodb.org/mongo-driver v1.9.0
+	go.mongodb.org/mongo-driver v1.9.1
 )
 
 require (
