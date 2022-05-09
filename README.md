@@ -5,21 +5,21 @@
 📦 Golang MongoDB CRUD 组件
 
 [comment]: <> (go)
-[![godoc](https://pkg.go.dev/badge/github.com/dtapps/gomongo?status.svg)](https://pkg.go.dev/github.com/dtapps/gomongo)
-[![goproxy.cn](https://goproxy.cn/stats/github.com/dtapps/gomongo/badges/download-count.svg)](https://goproxy.cn/stats/github.com/dtapps/gomongo)
-[![goreportcard.com](https://goreportcard.com/badge/github.com/dtapps/gomongo)](https://goreportcard.com/report/github.com/dtapps/gomongo)
-[![deps.dev](https://img.shields.io/badge/deps-go-red.svg)](https://deps.dev/go/github.com%2Fdtapps%2Fgomongo)
+[![godoc](https://pkg.go.dev/badge/go.dtapp.net/gomongo?status.svg)](https://pkg.go.dev/go.dtapp.net/gomongo)
+[![goproxy.cn](https://goproxy.cn/stats/go.dtapp.net/gomongo/badges/download-count.svg)](https://goproxy.cn/stats/go.dtapp.net/gomongo)
+[![goreportcard.com](https://goreportcard.com/badge/go.dtapp.net/gomongo)](https://goreportcard.com/report/go.dtapp.net/gomongo)
+[![deps.dev](https://img.shields.io/badge/deps-go-red.svg)](https://deps.dev/go/go.dtapp.net/gomongo)
 
 #### 安装使用
 
 ```go
-go get -v -u github.com/dtapps/gomongo
+go get -v -u go.dtapp.net/gomongo
 ```
 
 #### 导入
 
 ```go
 import (
-    "github.com/dtapps/gomongo"
+    "go.dtapp.net/gomongo"
 )
 ```

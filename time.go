@@ -1,7 +1,7 @@
 package gomongo
 
 import (
-	"github.com/dtapps/gotime"
+	"go.dtapp.net/gotime"
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/bsontype"
 	"time"
